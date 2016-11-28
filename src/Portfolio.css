@@ -1,0 +1,12 @@
+@media (min-width: 100px) {
+  .Portfolio {
+    width: 80%;
+    margin: 30px auto 0 auto;
+  }
+}
+@media (min-width: 992px) {
+  .Portfolio {
+    width: 65%;
+
+  }
+}
