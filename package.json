@@ -2,7 +2,7 @@
   "name": "react01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://horyunsong.github.io/biker",
+  "homepage": "https://horyunsong.github.io/biker",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.7.0"
